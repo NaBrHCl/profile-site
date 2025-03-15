@@ -11,4 +11,6 @@ Built with \
   - [x] List requirements
   - [ ] Design layout
 - [ ] Implement layout
+  - [x] Add template project
+  - [ ] Create page(s)
 - [ ] Deploy on Vercel
